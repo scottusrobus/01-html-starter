@@ -1,4 +1,4 @@
-# Class Project
+# HTML Starter (#1) — Class Project
 
 ## Project Steps
 
@@ -11,14 +11,10 @@ Your assignment will be to create and code an HTML document from one of the prov
 5. Post a link to your GitHub Pages HTML document source.
 6. Post a link to your GitHub Pages live site.
 
---
-
 
 ## Project Demonstration
-To give you an idea of how to do your own project, I demonstrate the required steps by finishing and publishing the HTML of our example site we began building in the class lessons.
+To give you an idea of how to do your own project, I demonstrate the required steps by finishing and publishing the HTML of our example site we began building in the class lessons. Here is the completed code from the lesson:
 
-**Class Example**  
-A home decor and furniture online shop  
 [Download Resources](example/package.zip)  
 [HTML Document](example/index.html)
 
