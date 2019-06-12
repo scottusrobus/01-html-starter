@@ -1,4 +1,3 @@
-**HTML Starter (#1)**
 ## Lesson 2 / Tools & Setup  
 
 Below you'll find links to tools needed for the course as mentioned in the lesson video.

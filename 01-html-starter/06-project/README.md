@@ -1,4 +1,3 @@
-**HTML Starter (#1)**
 ## Lesson 6 / Project
 
 For your class project, you are going to practice your HTML skills by writing up the HTML for a site's primary header and promotional areas based on a mock design. We're starting out by honing in on just a particular part of the design, just like we did in the course lessons.

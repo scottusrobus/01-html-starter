@@ -1,4 +1,3 @@
-**HTML Starter (#1)**
 ## Lesson 5 / Attributes  
 
 In this lesson we learn about HTML attributes and how they both add meaning and inform HTML elements how they should appear.

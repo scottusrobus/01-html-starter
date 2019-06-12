@@ -1,4 +1,3 @@
-**HTML Starter (#1)**
 ## Lesson 3 / Clamp It  
 
 In this lesson we learn about the anatomy of an HTML element.
