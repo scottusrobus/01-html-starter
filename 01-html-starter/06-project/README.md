@@ -10,4 +10,4 @@ Download the PDF design and image assets you will use for project.
 
 ### If you're stuck
 If you are having trouble or would like to compare once done, you can check out my take on the HTML for the project:
-[Code Example ("Seed to Root" Mock Site)](https://github.com/scottusrobus/become-a-web-developer/raw/master/01-html-starter/06-project/asset-package/index.html)
+[Code Example ("Seed to Root" Mock Site)](https://github.com/scottusrobus/become-a-web-developer/blob/master/01-html-starter/06-project/asset-package/index.html)
