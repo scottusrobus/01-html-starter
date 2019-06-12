@@ -6,4 +6,4 @@ The following are resources and assets for the Skillshare series of courses, **B
 
 Associated code and assets referenced in each course can be found at the following links:  
 
-[#1 — HTML Starter](01-html-starter)
+[HTML Starter (#1)](01-html-starter)
