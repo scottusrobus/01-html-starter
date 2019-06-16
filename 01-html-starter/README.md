@@ -1,6 +1,6 @@
 # HTML Starter (#1)
 
-The following are resources for the Skillshare course [HTML Starter (#1)](https://www.skillshare.com/classes/Become-a-Web-Developer-HTML-Starter-1/828441821).
+The following are resources for the Skillshare course [HTML Starter (#1)](https://skl.sh/2OSUcHH).
 
 ## Follow Along Resources
 
