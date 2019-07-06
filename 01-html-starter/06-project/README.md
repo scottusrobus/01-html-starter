@@ -2,7 +2,7 @@
 
 For your class project, you are going to practice your HTML skills by writing up the HTML for the primary header area of a site based on a mock design. We're starting out by honing in on one particular part of the design, just like we did in the course lessons.
 
-See the [Skillshare course](https://www.skillshare.com/classes/Become-a-Web-Developer-HTML-Starter-1/828441821) for a breakdown of the specific steps you will be taking.
+See the [Skillshare course](https://skl.sh/2OSUcHH) for a breakdown of the specific steps you will be taking.
 
 ### Project asset package
 Download the PDF design and image assets you will use for project.  
